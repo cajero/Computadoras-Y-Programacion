@@ -1,0 +1,80 @@
+#include <stdio.h>
+
+int main (){
+    
+    /*
+    //HOLA 1 a 10 con for
+	
+	
+intj=0 //en muchos programas falta el ';' y falta la separacion entre en 'int' y el nombre de la variable
+for(j=1;j<10;j=j+1){
+printf("hola%d",j)
+printf("/n")
+
+*/
+
+//Tabla del 3 con for anudado
+/*
+intf=i,j,s;
+printf("dame el numero para la tabla que quieres" "/n");
+scanf("%d",&s);
+for(i=i;i<=s,i=i+1){
+for(j=1;j<=10;j=j+i){
+printf("%dx%d=%d/n",i,j,i*j);
+}
+printf("/n");
+}
+printf("fin del programa");
+*/
+
+/*
+//Cuadrado de simbolo "+" con for anidado
+
+
+intf=0;
+intc=0;
+for(c=0;c<6;c=c+1)
+{
+printf("+");
+}
+printf("n");
+for(f=0;f<4;f=f+1){
+printf("+")
+for(c=0;c<4;c=c+1){
+printf(" ");
+}
+printf("+/n");
+}
+for(c=0;c<6;c=c+1){
+printf("+");}
+printf("/n");
+printf("fin del programa");
+*/
+/*
+//Cuadrado vacio  de simbolo "+"
+
+
+int c,f;
+for(c=0;c<10;c++)
+{
+printf("+");
+}
+printf("/n");
+for(f=0;f<8;f++)
+{
+printf("+")
+for(c=0;c<8;c++)
+{
+printf(" ");
+}
+printf("/n");
+}
+for(c=0;c<10;c++)
+{
+printf("+");
+}
+*/
+
+system("PAUSE");
+		   
+     }//fin del main
